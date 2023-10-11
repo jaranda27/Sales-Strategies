@@ -18,7 +18,7 @@ The goal is to provide compelling information to the sale department by answerin
 of these methods take more time from the team so they may not be the best for us
 to use if the results are similar.
 
-The report can be found here https://app.datacamp.com/workspace/w/0486d22f-51f9-48ff-a821-a13d99a0bf7e
+The report can be found here https://medium.com/@jorge.aranda/analyzing-three-different-sales-strategies-for-a-new-line-of-products-19a2fb6219a6
 
 **Skills**
 - Exploratory analysis
